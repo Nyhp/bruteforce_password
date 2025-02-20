@@ -11,7 +11,7 @@ commonSubs = {
 	"t": ["7", "+"]
 }
 
-special = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+special = "!#$%&'()*+,-./:;<=>@?[\]^_`{|}~"
 
 def genVariations(password):
 	password = password.lower()
